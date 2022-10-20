@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/microsoft-react/static/css/main.44f08659.css",
+    "main.js": "/microsoft-react/static/js/main.3aa69f19.js",
+    "static/media/aid.avif": "/microsoft-react/static/media/aid.e95792a193582ed3bef5.avif",
+    "static/media/showcase-background.jpg": "/microsoft-react/static/media/showcase-background.007e41bf896d1c1c3bcb.jpg",
+    "static/media/android-ios.webp": "/microsoft-react/static/media/android-ios.bf5b9e72fdae4c9cc870.webp",
+    "static/media/card3.webp": "/microsoft-react/static/media/card3.e765789a65adb80be6ed.webp",
+    "static/media/card4.webp": "/microsoft-react/static/media/card4.44acd5c0fd711628fd60.webp",
+    "static/media/card6.webp": "/microsoft-react/static/media/card6.4df0469faae625fa4ef7.webp",
+    "static/media/card5.webp": "/microsoft-react/static/media/card5.2b520e4f4f65b5dbdce3.webp",
+    "static/media/card7.webp": "/microsoft-react/static/media/card7.c7626704d0dfbf5ee1d7.webp",
+    "static/media/card8.webp": "/microsoft-react/static/media/card8.b55563e63050bcecedc6.webp",
+    "static/media/card2.webp": "/microsoft-react/static/media/card2.032775b6198e04c15652.webp",
+    "static/media/card1.webp": "/microsoft-react/static/media/card1.d84415d0ef72228b404d.webp",
+    "index.html": "/microsoft-react/index.html",
+    "main.44f08659.css.map": "/microsoft-react/static/css/main.44f08659.css.map",
+    "main.3aa69f19.js.map": "/microsoft-react/static/js/main.3aa69f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f08659.css",
+    "static/js/main.3aa69f19.js"
+  ]
+}
