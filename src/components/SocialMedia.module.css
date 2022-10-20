@@ -1,0 +1,10 @@
+.socialMedia {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 15px 0 0 30px;
+}
+
+.socialMedia * {
+    margin-right: 10px;
+}

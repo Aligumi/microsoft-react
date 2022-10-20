@@ -1,0 +1,64 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff;
+    color: #000;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+a {
+    color: #262626;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.mainNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    font-size: 13px;
+    padding: 0px 65.5px;
+    margin-left: 2px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.mainNav .right-menu {
+    padding: 0 10px;
+}
+
+.mainNav ul li {
+    padding-left: 20px;
+}
+
+.mainNav ul {
+    display: flex;
+}
+
+.mainNav ul.mainMenu {
+    flex: 1;
+    margin-left: 20px;
+}
+
+.mainNav .msDropdown select {
+    border: none;
+}
+
+.msDropdown a:hover {
+    border-bottom: 2px solid #262626;
+}
+
+.mainNav .mainMenu  li a:hover {
+    border-bottom: 2px solid #262626;
+}
+
+.mainNav ul li a {
+    padding-bottom: 2px;
+}

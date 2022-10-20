@@ -1,0 +1,35 @@
+.aid {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-image: url("./images/aid.avif");
+}
+
+.aidContent  {
+    width: 100%;
+    padding: 100px 0 0 30px;
+}
+
+
+.btn {
+    display: var(--btn-display);
+    cursor: var(--btn-pointer);
+    padding: var(--btn-padding);
+    background-color: var(--btn-background-color);;
+    color: var(--btn-color);
+    font-weight: var(--btn-font-weight);
+    border: var(--btn-border);
+    font-size: var(--btn-font-size);
+    margin-top: var(--btn-margin-top);
+    margin-left: var(--btn-margin-left);
+  }
+  
+  .btn:hover {
+    opacity: var(--btn-opacity);
+  }

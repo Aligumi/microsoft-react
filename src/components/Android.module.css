@@ -1,0 +1,34 @@
+.android {
+  width: 100%;
+  height: 400px;
+  background-image: url("./images/android-ios.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}    
+
+.android .content {
+  width: 40%;
+  padding: 50px 0 0 30px;
+}
+
+.android p {
+  margin: 10px 0 20px;
+}
+.btn {
+  display: var(--btn-display);
+  cursor: var(--btn-pointer);
+  padding: var(--btn-padding);
+  background-color: var(--btn-background-color);;
+  color: var(--btn-color);
+  font-weight: var(--btn-font-weight);
+  border: var(--btn-border);
+  font-size: var(--btn-font-size);
+  margin-top: var(--btn-margin-top);
+  margin-left: var(--btn-margin-left);
+}
+
+.btn:hover {
+  opacity: var(--btn-opacity);
+}

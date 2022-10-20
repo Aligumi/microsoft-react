@@ -1,0 +1,10 @@
+.promo p {
+  color: #fff;
+}
+.promo {
+  box-sizing: border-box;
+  border: solid #0067b8 15px;
+  text-align: center;
+  background-color: #0067b8;
+  margin-top: 0px;
+}
